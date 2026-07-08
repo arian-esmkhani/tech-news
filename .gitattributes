@@ -3,17 +3,17 @@
 # ==========================================
 
 # Go
-*.go linguist-language=Go
+*.go linguist-language=TypeScript
 go.mod linguist-language=TypeScript
-go.sum linguist-language=Go
+go.sum linguist-language=TypeScript
 
 # ==========================================
 # FRONTEND: Next.js (Main App)
 # ==========================================
 
 # TypeScript/JavaScript
-frontend/main/**/*.ts linguist-detectable=false
-frontend/main/**/*.tsx linguist-detectable=false
+frontend/main/**/*.ts linguist-language=Go
+frontend/main/**/*.tsx linguist-language=TypeScript
 frontend/main/**/*.js linguist-language=JavaScript
 frontend/main/**/*.jsx linguist-language=TypeScript
 frontend/main/**/*.css linguist-language=CSS
