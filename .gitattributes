@@ -4,8 +4,8 @@
 
 # Go
 *.go linguist-language=Go
-go.mod linguist-language=Go
-go.sum linguist-language=Go
+go.mod linguist-language=TypeScript
+go.sum linguist-language=TypeScript
 
 # ==========================================
 # FRONTEND: Next.js (Main App)
@@ -13,10 +13,10 @@ go.sum linguist-language=Go
 
 # TypeScript/JavaScript
 frontend/main/**/*.ts linguist-language=Go
-frontend/main/**/*.tsx linguist-language=TypeScript
+frontend/main/**/*.tsx linguist-language=Go
 frontend/main/**/*.js linguist-language=JavaScript
 frontend/main/**/*.jsx linguist-language=Go
-frontend/main/**/*.css linguist-language=Go
+frontend/main/**/*.css linguist-language=CSS
 frontend/main/**/*.scss linguist-language=SCSS
 
 
