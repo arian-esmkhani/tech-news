@@ -15,8 +15,8 @@ go.sum linguist-language=Go
 frontend/main/**/*.ts linguist-language=Go
 frontend/main/**/*.tsx linguist-language=TypeScript
 frontend/main/**/*.js linguist-language=JavaScript
-frontend/main/**/*.jsx linguist-language=TypeScript
-frontend/main/**/*.css linguist-language=CSS
+frontend/main/**/*.jsx linguist-language=Go
+frontend/main/**/*.css linguist-language=Go
 frontend/main/**/*.scss linguist-language=SCSS
 
 
