@@ -13,7 +13,7 @@ A Fiber-based REST API for a technology content platform delivering articles, tu
 
 ## Tech Stack
 - **Framework**: GoFiber v2
-- **Database**: MySQL
+- **Database**: MySQL , Redis
 - **ORM**: sqlx
 - **JSON Processing**: Sonic (bytedance)
 - **Next.js** (App Router)

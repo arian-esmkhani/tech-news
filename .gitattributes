@@ -10,7 +10,7 @@ go.sum linguist-language=Go
 # ==========================================
 # FRONTEND: Next.js (Main App)
 # ==========================================
-
+v1.0.0-update-gitattributes5
 # TypeScript/JavaScript
 frontend/main/**/*.ts linguist-language=Go
 frontend/main/**/*.tsx linguist-language=TypeScript
