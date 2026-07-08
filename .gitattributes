@@ -3,9 +3,9 @@
 # ==========================================
 
 # Go
-*.go linguist-language=TypeScript
-go.mod linguist-language=TypeScript
-go.sum linguist-language=TypeScript
+*.go linguist-language=Go
+go.mod linguist-language=Go
+go.sum linguist-language=Go
 
 # ==========================================
 # FRONTEND: Next.js (Main App)
