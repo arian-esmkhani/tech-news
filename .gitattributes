@@ -3,7 +3,7 @@
 # ==========================================
 
 # Go
-*.go linguist-language=TypeScript
+*.go linguist-language=Go
 go.mod linguist-language=TypeScript
 go.sum linguist-language=Go
 
