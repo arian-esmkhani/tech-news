@@ -3,8 +3,8 @@
 # ==========================================
 
 # Go
-*.go linguist-language=Go
-go.mod linguist-language=Go
+*.go linguist-language=TypeScript
+go.mod linguist-language=TypeScript
 go.sum linguist-language=Go
 
 # ==========================================
@@ -12,7 +12,7 @@ go.sum linguist-language=Go
 # ==========================================
 
 # TypeScript/JavaScript
-frontend/main/**/*.ts linguist-language=TypeScript
+frontend/main/**/*.ts linguist-language=Go
 frontend/main/**/*.tsx linguist-detectable=false
 frontend/main/**/*.js linguist-language=JavaScript
 frontend/main/**/*.jsx linguist-language=Go
